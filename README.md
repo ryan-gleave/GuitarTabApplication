@@ -6,7 +6,7 @@ UltimateGuitar released the "Personal Tabs" feature shortly after this prototype
 
 There are still a few features and optimizations that could still be made which I may implement as a learning experience and maybe even to improve the functionality offered by the UG website.
 
-##TODO
+## TODO
 * Save new local tabs after loading from the web
 * Only save the tab differences as opposed to the whole tab content (?)
 * UI Improvements
